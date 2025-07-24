@@ -9,7 +9,7 @@ export default function About() {
           <div>
             <h2 className="text-3xl font-bold mb-4 text-indigo-100 drop-shadow">About Me</h2>
             <p className="leading-relaxed text-indigo-50 opacity-90 mb-4">
-              Hi! I'm Akash Kendre, a passionate full-stack developer who loves building beautiful, performant, and meaningful digital experiences. My journey began with curiosity for how things work, and has grown into a career focused on creating impactful products for web, mobile, and desktop.
+              Hi! I'm Akash Kendre, a passionate full-stack developer with 3+ years of experience building beautiful, performant, and meaningful digital experiences. My journey began with curiosity for how things work, and has grown into a career focused on creating impactful products for web, mobile, and desktop.
             </p>
             <p className="leading-relaxed text-indigo-50 opacity-90 mb-4">
               I thrive on solving complex problems, collaborating with creative teams, and learning new technologies. My recent work includes the <strong>SmartDoc VS Code extension</strong>, and I enjoy contributing to open source and mentoring new developers.
